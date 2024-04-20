@@ -1,0 +1,31 @@
+D:\APPSDEV\Appsdev-System\Appsdev-System\bin\Debug\Appsdev-System.exe.config
+D:\APPSDEV\Appsdev-System\Appsdev-System\bin\Debug\Appsdev-System.exe
+D:\APPSDEV\Appsdev-System\Appsdev-System\bin\Debug\Appsdev-System.pdb
+D:\APPSDEV\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.csproj.AssemblyReference.cache
+D:\APPSDEV\Appsdev-System\Appsdev-System\obj\Debug\Appsdev_System.LoginForm.resources
+D:\APPSDEV\Appsdev-System\Appsdev-System\obj\Debug\Appsdev_System.Properties.Resources.resources
+D:\APPSDEV\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.csproj.GenerateResource.cache
+D:\APPSDEV\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.csproj.CoreCompileInputs.cache
+D:\APPSDEV\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.exe
+D:\APPSDEV\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.pdb
+C:\Users\acer\Desktop\MYLOVESOSWEET\Appsdev-System\Appsdev-System\bin\Debug\Appsdev-System.exe.config
+C:\Users\acer\Desktop\MYLOVESOSWEET\Appsdev-System\Appsdev-System\bin\Debug\Appsdev-System.exe
+C:\Users\acer\Desktop\MYLOVESOSWEET\Appsdev-System\Appsdev-System\bin\Debug\Appsdev-System.pdb
+C:\Users\acer\Desktop\MYLOVESOSWEET\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.csproj.AssemblyReference.cache
+C:\Users\acer\Desktop\MYLOVESOSWEET\Appsdev-System\Appsdev-System\obj\Debug\Appsdev_System.LoginForm.resources
+C:\Users\acer\Desktop\MYLOVESOSWEET\Appsdev-System\Appsdev-System\obj\Debug\Appsdev_System.Properties.Resources.resources
+C:\Users\acer\Desktop\MYLOVESOSWEET\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.csproj.GenerateResource.cache
+C:\Users\acer\Desktop\MYLOVESOSWEET\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.csproj.CoreCompileInputs.cache
+C:\Users\acer\Desktop\MYLOVESOSWEET\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.exe
+C:\Users\acer\Desktop\MYLOVESOSWEET\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.pdb
+C:\APPSDEV Twinky\Appsdev-System\Appsdev-System\bin\Debug\Appsdev-System.exe.config
+C:\APPSDEV Twinky\Appsdev-System\Appsdev-System\bin\Debug\Appsdev-System.exe
+C:\APPSDEV Twinky\Appsdev-System\Appsdev-System\bin\Debug\Appsdev-System.pdb
+C:\APPSDEV Twinky\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.csproj.AssemblyReference.cache
+C:\APPSDEV Twinky\Appsdev-System\Appsdev-System\obj\Debug\Appsdev_System.LoginForm.resources
+C:\APPSDEV Twinky\Appsdev-System\Appsdev-System\obj\Debug\Appsdev_System.Properties.Resources.resources
+C:\APPSDEV Twinky\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.csproj.GenerateResource.cache
+C:\APPSDEV Twinky\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.csproj.CoreCompileInputs.cache
+C:\APPSDEV Twinky\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.exe
+C:\APPSDEV Twinky\Appsdev-System\Appsdev-System\obj\Debug\Appsdev-System.pdb
+C:\APPSDEV Twinky\Appsdev-System\Appsdev-System\bin\Debug\Database1.accdb
